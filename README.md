@@ -2,7 +2,7 @@
 -  👋 Hi, I’m @bakarezainab
 - 👀 I’m interested in learning about **Blockchain Technology**
 - 🌱 I’m currently learning **Front end web development**
-- 💞️ I’m looking to collaborate on any relevant network relating to my tech career improvement
+- 💞️ I’m looking to collaborate with relevant network relating to my tech career improvement
  # -📫 How to reach me 
  You can reach me on linkedin 
  https://www.linkedin.com/in/zainab01idealz/ let's connect
