@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web3Project</title>
+    <link rel="stylesheet" type="text/css" href="stle.css">
+</head>
+<body>
+    <link
+  rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+  integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+  crossorigin="anonymous"
+/>
+<div id="page-wrapper">
+  <header id="header">
+    <div class="logo">
+      <img
+        id="header-img"   
+    </div>
+</div>
+
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#">Facilities</a></li>
+        <li><a class="nav-link" href="#">How It Works</a></li>
+        <li><a class="nav-link" href="#">Accomodation </a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container"></div>
+
+  <section id="hero">
+    <h2>Web3Bridge New Room Allocation System</h2>
+    <form id="form" action= #>
+      <input
+        name="email"
+        id="email"
+        type="email"
+        placeholder="Enter your email address"
+        required
+      />
+      <input id="submit" type="submit" value="SECURE NOW" class="btn" />
+    </form>
+  </section>
+
+  <div class="container">
+    <section id="features">
+      <div class="grid">
+        <div class="icon"><i class="fa fa-3x fa-fire"></i></div>
+        <div class="desc">
+          <h2>Info on Allocation</h2>
+          <p>
+            Web3Bridge has recently acquired a high intensive developer training facility in
+Lekki. The facility will be used for designing and developing outsourced projects. The
+facility has the following features.
+- A conference room (Capacity is 5 people)
+- 3 bedrooms (Capacity is 4 people each)
+Only 12 people shall stay at the facility at any one point in time. The 12 people will
+consist the following
+- 3 facilitators
+- 9 developers
+The 9 developers will consist the following
+- 3 developers who are proficient in CSS
+- 3 developers who are proficient in HTML
+- 3 developers who are proficient in JS
+            will increase the longevity of your purchase.
+          </p>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="icon"><i class="fa fa-3x fa-truck"></i></div>
+        <div class="desc">
+          <h2>Added Info</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi harum sint aliquam quidem corrupti voluptatibus, repellat
+          </p>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="icon">
+          <i class="fa fa-3x fa-battery-full" aria-hidden="true"></i>
+        </div>
+        <div class="desc">
+          <h2>Quality Assurance</h2>
+          <p>
+            For every allocation you make, we will ensure there are no damages
+            
+          </p>
+        </div>
+      </div>
+    </section>
+    <section id="how-it-works">
+      
+    </section>
+    <section id="pricing">
+      <div class="product" id="tenor">
+        <div class="level">For HTML EXPERTS ONLY</div>
+        <h2></h2>
+        <ol>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum dolor.</li>
+          <li>Lorem ipsum.</li>
+        </ol>
+        <button class="btn">Book</button>
+      </div>
+      <div class="product" id="bass">
+        <div class="level">For CSS EXPERTS ONLY </div>
+        <h2></h2>
+        <ol>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum dolor.</li>
+          <li>Lorem ipsum.</li>
+        </ol>
+        <button class="btn">Book</button>
+      </div>
+      <div class="product" id="valve">
+        <div class="level">For JAVA SCRIPT EXPERTS ONLY</div>
+        <h2></h2>
+        <ol>
+          <li>Lorem ipsum</li>
+          <li>Lorem ipsum</li>
+          <li>Lorem ipsum dolor.</li>
+          <li>Lorem ipsum.</li>
+        </ol>
+        <button class="btn">Book</button>
+      </div>
+    </section>
+    <footer>
+      
+      <span>Web3bridge Allocation, 2022</span>
+    </footer>
+  </div>
+</div>
+
+</body>
+</html>
