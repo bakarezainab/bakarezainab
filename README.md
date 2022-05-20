@@ -11,3 +11,11 @@
 bakarezainab/bakarezainab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# THESE ARE MY RECENT PROJECTS
+My Personal Portfolio    https://codepen.io/Idealz/details/mdpEKWR
+
+Product Landing Pages   https://codepen.io/Idealz/details/popbvOa
+
+Technical Documentation Page   https://codepen.io/Idealz/details/bGadoob
+
+JavaScript Mini Projects    https://codepen.io/Idealz/details/YzeQNvQ
