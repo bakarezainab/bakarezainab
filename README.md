@@ -1,7 +1,7 @@
 # INTRODUCTION
 -  👋 Hi, I’m @bakarezainab
 - 👀 I’m interested in learning about **Blockchain Technology**
-- 🌱 I am a **Front end web development**
+- 🌱 I am a **Front end web developer**
 - 💞️ I’m looking to collaborate with relevant network relating to my tech career improvement
  # -📫 How to reach me 
  You can reach me on linkedin 
