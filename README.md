@@ -1,8 +1,6 @@
 # Hello there, I am Bakare Zainab 👋🏾
--  👋 Hi, I’m @bakarezainab
-- 👀 I’m interested in learning about **Blockchain Technology**
-- 🌱 I am a **Front end web developer**
-- 💞️ I’m looking to collaborate with relevant network relating to my tech career improvement
+-  A Blockchain Developer focused on (Writing Smart Contracts, Solidity, Hardhat, Web3, React.js, TypeScript). Hit me up for a gig
+Previously a Software Engineer building solutions with (React, Next, Bootstrap, Tailwind CSS)
  # -📫 How to reach me 
  You can reach me on linkedin 
  https://www.linkedin.com/in/zainab01idealz/ let's connect
