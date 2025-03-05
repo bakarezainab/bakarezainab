@@ -1,4 +1,4 @@
-# INTRODUCTION
+# Hello there, I am Bakare Zainab 👋🏾
 -  👋 Hi, I’m @bakarezainab
 - 👀 I’m interested in learning about **Blockchain Technology**
 - 🌱 I am a **Front end web developer**
