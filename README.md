@@ -1,24 +1,14 @@
-# Hello there, I am Bakare Zainab 👋🏾
--  A Blockchain Developer focused on (Writing Smart Contracts, Solidity, Hardhat, Web3, React.js, TypeScript). Hit me up for a gig
-Previously a Software Engineer building solutions with (React, Next, Bootstrap, Tailwind CSS)
- # -📫 How to reach me 
- You can reach me on linkedin 
- https://www.linkedin.com/in/zainab01idealz/ let's connect
+### Hi, I'm Bakare Zainab 👋
 
-<!---
-bakarezainab/bakarezainab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# THESE ARE MY RECENT PROJECTS
+🚀 Frontend Developer | Web3 Developer | Smart Contract Builder
 
+🔧 Tech Stack:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 
+📫 Reach me: [Email] • [LinkedIn] • [Portfolio link]
 
-
-
-
-
-My Personal Portfolio    https://codepen.io/Idealz/details/mdpEKWR
-
-Technical Documentation Page   https://codepen.io/Idealz/details/bGadoob
-
-JavaScript Mini Projects    https://codepen.io/Idealz/details/YzeQNvQ
+✨ I'm currently working on: Real Estate DApp + Smart Wallet (EIP-4337)
