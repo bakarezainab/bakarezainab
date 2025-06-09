@@ -1,4 +1,4 @@
-### Hi, I'm Bakare Zainab 👋
+# Hi, I'm Bakare Zainab 👋
 
 🚀 Frontend Developer | Web3 Developer | Smart Contract Builder
 
