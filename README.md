@@ -2,7 +2,7 @@
   Hi, I'm Bakare Zainab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-🚀 Frontend Developer | Web3 Developer | Smart Contract Writer | Technical Writer
+🚀 Frontend Developer | Web3 Developer | Smart Contract Developer | Technical Writer
 
 ## 🔧 Tech Stack
 
